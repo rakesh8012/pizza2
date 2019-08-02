@@ -1,0 +1,240 @@
+.Tlogin {
+    filter: drop-shadow(7px 7px 2px rgba(0,0,0,0.2));
+}
+
+a.sign {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.Tforgot {
+    color: #3498db;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.tbodert {
+    border: none !important;
+    border-top: 8px Solid #3498db !important;
+    border-radius: 0 !important;
+}
+
+.Tlogin .fontb-cblack {
+    font-weight: 600;
+    color: #000;
+}
+
+.DTTT {
+    display: none;
+}
+
+.mt3 {
+    margin-top: 3px;
+}
+
+.width60 {
+    width: 60px;
+}
+
+#source-button {
+    display: none !important;
+}
+
+.borderbn {
+    border-bottom: none !important;
+}
+
+.btnselect .btn-group {
+    width: 100%;
+}
+
+    .btnselect .btn-group .btn {
+        width: 100%;
+        text-align: left;
+        background: transparent;
+        box-shadow: none;
+        border-radius: 2px;
+    }
+
+.btnselect .input-group-btn {
+    width: 8%;
+}
+
+.btnselect .btn-group .multiselect-container.dropdown-menu {
+    width: 100%;
+}
+
+.defaultbtn {
+    background-color: #3498db;
+    color: #fff;
+    border: 0;
+    height: 42px;
+    line-height: 42px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 0 18px;
+    display: inline-block;
+    -webkit-user-drag: none;
+    text-shadow: 0 1px rgba(255, 255, 255, 0.2);
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.pl22 {
+    padding-left: 22px;
+}
+
+.marginb10 {
+    margin-bottom: 10px;
+}
+
+.grybtn {
+    background-color: #a09f9f;
+    color: #fff;
+    border: 0;
+    height: 42px;
+    line-height: 42px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 0 18px;
+    display: inline-block;
+    -webkit-user-drag: none;
+    text-shadow: 0 1px rgba(255, 255, 255, 0.2);
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.head1 {
+    font-size: 15px;
+    color: #000;
+    padding-bottom: 20px;
+}
+
+.ml26 {
+    margin-left: 26%;
+}
+
+.ml10 {
+    margin-left: 10%;
+}
+
+.canclebtn, .canclebtn:focus, .canclebtn:hover {
+    background-color: #df5640 !important;
+    outline: none;
+}
+
+.marginbtm10 {
+    margin-bottom: 10px;
+}
+
+.margintop10 {
+    margin-top: 10px;
+}
+
+.marginright5 {
+    margin-right: 5px;
+}
+
+.dheadings {
+    font-size: 22px;
+    font-weight: 600;
+    color: #245484;
+}
+
+.navbar .nav > li > a {
+    height: 56px !important;
+}
+
+.ctext {
+    text-align: center;
+    padding: 50px 0;
+}
+
+    .ctext p {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+table tbody tr td .fa-2x {
+    font-size: 1.5em;
+}
+
+/*start addedd by Samba*/
+.top33 {
+    top: 33% !important;
+}
+
+.has-error {
+    border-color: #d68273 !important;
+}
+
+em.has-error, span.has-error {
+    color: #d68273 !important;
+    font-style: normal !important;
+
+}
+
+span.has-error {
+    margin-left: 27% !important;
+}
+
+.loadingmodal {
+    display: none;
+    position: fixed;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: rgba( 255, 255, 255, .8 ) url('../images/loader.svg') center center no-repeat;
+    opacity: .5;
+}
+
+.cus-cursor-pointer {
+    cursor: pointer !important;
+}
+
+/*end addedd by Samba*/
+
+  .nextcls, .prevcls ,.pagging > a {
+    position: relative;
+    float: left;
+    padding: 5px 12px;
+    line-height: 1.49;
+    text-decoration: none;
+    color: #3498db;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    margin-left: -1px;
+}
+    .pagination {
+        display: inline-flex!important;
+    }
+
+    .dataTables_info {
+        padding: 25px 15px 15px 15px !important;
+    }
+
+    .dataTables_paginate {
+            padding: 10px 15px 15px 15px !important;
+    }
+    .text-center {
+            text-align: center;
+    }
+
+    .queblock {
+        z-index:9;
+    }
+
+    .pagging .page-number.active {
+            z-index: 2;
+    color: #ffffff;
+    background-color: #3498db;
+    border-color: #3498db;
+    cursor: default;
+    }
+    a {
+        cursor:pointer !important;
+        text-decoration:none !important;
+    }

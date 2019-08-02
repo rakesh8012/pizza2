@@ -1,0 +1,188 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza</title>
+
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <title>Tower Water</title>
+    <meta name="keywords" content="Tower Water" />
+    <meta name="description" content="Tower Water">
+    <meta name="author" content="Tower Water">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Font CSS (Via CDN) -->
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700'>
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/fonts/glyphicons-pro/glyphicons-pro.css">
+    <!-- Datatables CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/plugins/datatables/media/css/dataTables.bootstrap.css">
+
+    <!-- Datatables Editor Addon CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/plugins/datatables/extensions/Editor/css/dataTables.editor.css">
+
+    <!-- Datatables ColReorder Addon CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/plugins/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/skin/default_skin/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/custom.css">
+
+
+    <!-- Favicon -->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <script src="@Url.Content("~/Content/vendor/jquery/jquery-1.11.1.min.js")"></script>
+</head>
+<body class="datatables-page" data-spy="scroll" data-target="#nav-spy" data-offset="300">
+    <!-- Start: Main -->
+    <div id="main">
+        <!-- Start: Header -->
+        <header class="navbar navbar-fixed-top navbar-shadow">
+            <div class="navbar-branding width60">
+                <span id="toggle_sidemenu_l" class="ad ad-lines"></span>
+            </div>
+            <ul class="nav navbar-nav navbar-left">
+                <li class="dropdown menu-merge mt3">
+                    <img src="~/Content/images/logo.png" title="Pizza" class="center-block img-responsive" style="max-width: 200px;">
+                </li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown menu-merge mt3">
+                    <a href="#" class="dropdown-toggle fw600 p15" data-toggle="dropdown">
+                        <span class="hidden-xs pl15"> @Convert.ToString(Session["UserName"]) </span>
+                        <span class="caret caret-tp hidden-xs"></span>
+                    </a>
+                    <ul class="dropdown-menu list-group dropdown-persist w250" role="menu">
+                        <li class="dropdown-footer">
+                            @Html.ActionLink("Logout", "Logoff", "Login")
+                            @*<a href="#" class="">
+                                    <span class="fa fa-power-off pr5"></span> Logout
+                                </a>*@
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </header>
+        <!-- End: Header -->
+        <!-- Start: Sidebar -->
+        <aside id="sidebar_left" class="nano nano-light affix">
+
+            <!-- Start: Sidebar Left Content -->
+            <div class="sidebar-left-content nano-content">
+                <!-- Start: Sidebar Menu -->
+                <ul class="nav sidebar-menu">
+                    <li class="sidebar-label pt20">Menu</li>
+
+                    <li>
+                        <a href="/Customer/Index">
+                            <span class="glyphicons glyphicons-user_add"></span>
+                            <span class="sidebar-title">Customers</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Employee/Index">
+                            <span class="glyphicons glyphicons-user_add"></span>
+                            <span class="sidebar-title">Employees</span>
+                        </a>
+                    </li>
+                </ul>
+                <!-- End: Sidebar Left Menu -->
+                <!-- Start: Sidebar Collapse Button -->
+                <div class="sidebar-toggle-mini">
+                    <a href="#">
+                        <span class="fa fa-sign-out"></span>
+                    </a>
+                </div>
+                <!-- End: Sidebar Collapse Button -->
+
+            </div>
+            <!-- End: Sidebar Left Content -->
+
+        </aside>
+
+        @RenderBody()
+
+    </div>
+
+    <!-- End: Main -->
+    <!-- BEGIN: PAGE SCRIPTS -->
+    <!-- jQuery -->
+
+
+
+    <script src="@Url.Content("~/Content/vendor/jquery/jquery_ui/jquery-ui.min.js")"></script>
+
+    <!-- Datatables -->
+    <script src="@Url.Content("~/Content/vendor/plugins/datatables/media/js/jquery.dataTables.js")"></script>
+
+    <!-- Datatables Tabletools addon -->
+    <script src="@Url.Content("~/Content/vendor/plugins/datatables/extensions/TableTools/js/dataTables.tableTools.min.js")"></script>
+
+    <!-- Datatables ColReorder addon -->
+    <script src="@Url.Content("~/Content/vendor/plugins/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js")"></script>
+
+    <!-- Datatables Bootstrap Modifications  -->
+    <script src="@Url.Content("~/Content/vendor/plugins/datatables/media/js/dataTables.bootstrap.js")"></script>
+
+    <!-- Theme Javascript -->
+    <script src="@Url.Content("~/Content/assets/js/utility/utility.js")"></script>
+    <script src="@Url.Content("~/Content/assets/js/demo/demo.js")"></script>
+    <script src="@Url.Content("~/Content/assets/js/main.js")"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //$('.nav li a').click(function (e) {
+
+            //    $('.nav li.active').removeClass('active');
+
+            //    var $parent = $(this).parent();
+            //    $parent.addClass('active');
+
+            //});
+            "use strict";
+            // Init Theme Core
+            Core.init();
+            // Init Demo JS
+            Demo.init();
+            // Init DataTables
+            $('#datatable').dataTable({
+                "sDom": 't<"dt-panelfooter clearfix"ip>',
+                "oTableTools": {
+                    "sSwfPath": "~/Content/vendor/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf"
+                }
+            });
+
+            $('#datatable3').dataTable({
+                "aoColumnDefs": [{
+                    'bSortable': false,
+                    'aTargets': [-1]
+                }],
+                "oLanguage": {
+                    "oPaginate": {
+                        "sPrevious": "",
+                        "sNext": ""
+                    }
+                },
+                "iDisplayLength": 5,
+                "aLengthMenu": [
+                  [5, 10, 25, 50, -1],
+                  [5, 10, 25, 50, "All"]
+                ],
+                "sDom": '<"dt-panelmenu clearfix"Tfr>t<"dt-panelfooter clearfix"ip>',
+                "oTableTools": {
+                    "sSwfPath": "~/Content/vendor/plugins/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf"
+                }
+            });
+        });
+
+    </script>
+    <!-- END: PAGE SCRIPTS -->
+</body>
+
+</html>

@@ -1,0 +1,186 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+
+<html>
+
+<head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <title>Login</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Font CSS (Via CDN) -->
+    <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700'>
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/skin/default_skin/css/theme.css">
+
+    <!-- Admin Forms CSS -->
+    <link rel="stylesheet" type="text/css" href="~/Content/assets/admin-tools/admin-forms/css/admin-forms.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/custom.css">
+
+    <!-- Favicon -->
+    @*<link rel="shortcut icon" href="../assets/img/favicon.ico">*@
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+     <![endif]-->
+</head>
+
+<body class="external-page sb-l-c sb-r-c">
+    <div class="loadingmodal"></div>
+
+    <!-- Start: Main -->
+    <div id="main" class="animated fadeIn">
+
+        <!-- Start: Content-Wrapper -->
+        <section id="content_wrapper">
+
+            <!-- begin canvas animation bg -->
+            <div id="canvas-wrapper">
+                <canvas id="demo-canvas"></canvas>
+            </div>
+
+            <!-- Begin: Content -->
+            <section id="content">
+
+                <div class="admin-form theme-info mw500 Tlogin" id="login">
+                    <div class="alert alert-warning alert-dismissable" style="display:none">
+                        <button type="button" class="close" aria-hidden="true">×</button>
+                        <i class="fa fa-warning pr10"></i>
+                        <span class="alertmessage"></span>
+                    </div>
+                    <!-- Login Logo -->
+                    <div class="row table-layout">
+                        <a href="#" title="Return to Dashboard">
+                            <img src="~/Content/Images/logo.png" title="Pizza" class="center-block img-responsive" style="max-width: 320px;">
+                        </a>
+                    </div>
+
+                    <!-- Login Panel/Form -->
+                    <div class="panel mt30 mb25 tbodert">
+
+                        <form method="post" action="/" id="contact">
+                            <div class="panel-body bg-light p25 pb15">
+
+                                <!-- Username Input -->
+                                <div class="section">
+                                    <label for="PhoneNumber" class="field-label text-muted fs15 mb10 fontb-cblack">Phone Number</label>
+                                    <label for="PhoneNumber" class="field prepend-icon">
+                                        <input type="text" name="PhoneNumber" id="txtPhoneNumber" maxlength="15" class="gui-input txtPhoneNumber" placeholder="Enter PhoneNumber" autocomplete="off">
+                                        <label for="PhoneNumber" class="field-icon top33">
+                                            <i class="fa fa-user"></i>
+                                        </label>
+                                    </label>
+                                </div>
+
+                                <!-- Password Input -->
+                            </div>
+
+                            <div class="panel-footer clearfix">
+                                <button id="btnSignIn" type="submit" class="button btn-primary mr10 pull-right cus-corsor">Sign In</button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+
+            </section>
+            <!-- End: Content -->
+
+        </section>
+        <!-- End: Content-Wrapper -->
+
+    </div>
+    <!-- End: Main -->
+    <!-- BEGIN: PAGE SCRIPTS -->
+    <!-- jQuery -->
+    <script src="~/Content/vendor/jquery/jquery-1.11.1.min.js"></script>
+    <script src="~/Content/vendor/jquery/jquery_ui/jquery-ui.min.js"></script>
+
+    <!-- Theme Javascript -->
+    <script src="~/Content/assets/js/utility/utility.js"></script>
+    <script src="~/Content/assets/js/main.js"></script>
+    <script src="~/Content/assets/js/demo/demo.js"></script>
+
+    <!-- Page Javascript -->
+    <script type="text/javascript">
+        var LoginURL = '@Url.Action("ValidateLogin", "Login")';
+        var apiUrl = '@System.Configuration.ConfigurationManager.AppSettings["InternalUrl"]';
+        jQuery(document).ready(function () {
+            "use strict";
+
+            // Init Theme Core
+            Core.init();
+
+            // Init Demo JS
+            Demo.init();
+
+            // Init CanvasBG and pass target starting location
+            CanvasBG.init({
+                Loc: {
+                    x: window.innerWidth / 2,
+                    y: window.innerHeight / 3.3
+                },
+            });
+
+        });
+
+        $('.close').on("click", function () {
+            $(".alert-dismissable .alertmessage").empty("")
+            $(".alert-dismissable").hide();
+        });
+        $('#btnSignIn').on("click", function () {
+            var LoginData = JSON.stringify({
+                "PhoneNumber": $("#txtPhoneNumber").val(),
+            });
+            if (LoginValidateForm()) {
+                $.ajax({
+                    type: "POST",
+                    url: LoginURL,
+                    data: LoginData,
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (result) {
+                        if (!result.Status) {
+                        }
+                        else {
+                            window.location.href = apiUrl + "Customer/index";
+                        }
+                    },
+                    error: function () {
+                    }
+                });
+            }
+        });
+
+        function LoginValidateForm() {
+            var status = true;
+            if ($.trim($(".txtPhoneNumber").val()) == "") {
+                $(".txtPhoneNumber").addClass("has-error");
+                status = false;
+            }
+            else {
+                $(".txtPhoneNumber").removeClass("has-error");
+            }
+            return status;
+        }
+
+        $(".txtPhoneNumber").keypress(function (e) {
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                $("#errmsg").html("Digits Only").show().fadeOut("slow");
+                return false;
+            }
+        });
+    </script>
+    <!-- END: PAGE SCRIPTS -->
+
+</body>
+
+</html>

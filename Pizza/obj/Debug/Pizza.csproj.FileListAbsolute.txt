@@ -1,0 +1,251 @@
+E:\Projects\Pizza\Pizza\bin\ApplicationInsights.config
+E:\Projects\Pizza\Pizza\bin\roslyn\csc.exe
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Pizza\Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Pizza\Pizza\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Pizza\Pizza\bin\roslyn\vbc.exe
+E:\Projects\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Pizza\Pizza\bin\Pizza.dll.config
+E:\Projects\Pizza\Pizza\bin\Pizza.dll
+E:\Projects\Pizza\Pizza\bin\Pizza.pdb
+E:\Projects\Pizza\Pizza\bin\Antlr3.Runtime.dll
+E:\Projects\Pizza\Pizza\bin\EntityFramework.dll
+E:\Projects\Pizza\Pizza\bin\EntityFramework.SqlServer.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.Web.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Pizza\Pizza\bin\Newtonsoft.Json.dll
+E:\Projects\Pizza\Pizza\bin\Owin.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.Helpers.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.Mvc.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.Optimization.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.Razor.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.dll
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Pizza\Pizza\bin\WebGrease.dll
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.Web.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.ApplicationInsights.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.Helpers.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.Mvc.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.Optimization.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.Razor.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Pizza\Pizza\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Pizza\Pizza\bin\Antlr3.Runtime.pdb
+E:\Projects\Pizza\Pizza\bin\Newtonsoft.Json.xml
+E:\Projects\Pizza\Pizza\bin\EntityFramework.xml
+E:\Projects\Pizza\Pizza\bin\EntityFramework.SqlServer.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Pizza\Pizza\obj\Debug\Pizza.dll
+E:\Projects\Pizza\Pizza\obj\Debug\Pizza.pdb
+E:\Projects\Pizza\Pizza\obj\Debug\Pizza.csprojResolveAssemblyReference.cache
+E:\Projects\Pizza\Pizza\bin\System.Linq.Dynamic.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\ApplicationInsights.config
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\csc.exe
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\vbc.exe
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Pizza.dll.config
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Pizza.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Pizza.pdb
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Antlr3.Runtime.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\EntityFramework.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\EntityFramework.SqlServer.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.Web.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Newtonsoft.Json.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Helpers.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Mvc.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Optimization.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Razor.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\WebGrease.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.Web.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Helpers.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Mvc.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Optimization.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.Razor.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Antlr3.Runtime.pdb
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Newtonsoft.Json.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\EntityFramework.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\EntityFramework.SqlServer.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\obj\Debug\Pizza.dll
+C:\Users\Mirza's\Desktop\rak pizza\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\ApplicationInsights.config
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\csc.exe
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\vbc.exe
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Pizza.dll.config
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Pizza.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Pizza.pdb
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Antlr3.Runtime.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\EntityFramework.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\EntityFramework.SqlServer.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.Web.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Newtonsoft.Json.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Owin.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Helpers.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Mvc.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Optimization.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Razor.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\WebGrease.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.Web.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Helpers.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Mvc.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Optimization.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.Razor.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Antlr3.Runtime.pdb
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Newtonsoft.Json.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\EntityFramework.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\EntityFramework.SqlServer.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\obj\Debug\Pizza.csproj.CopyComplete
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\obj\Debug\Pizza.dll
+C:\Users\Mirza's\Desktop\rak pizza\fff\Pizza\Pizza\obj\Debug\Pizza.pdb
